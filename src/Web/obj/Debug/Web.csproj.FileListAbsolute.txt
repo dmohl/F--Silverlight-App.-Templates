@@ -1,0 +1,5 @@
+C:\git\FSharpSilverlightApp\src\Web\bin\Web.dll
+C:\git\FSharpSilverlightApp\src\Web\bin\Web.pdb
+C:\git\FSharpSilverlightApp\src\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpSilverlightApp\src\Web\obj\Debug\Web.dll
+C:\git\FSharpSilverlightApp\src\Web\obj\Debug\Web.pdb
