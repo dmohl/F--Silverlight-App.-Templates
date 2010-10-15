@@ -7,3 +7,12 @@ C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverli
 C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.pdb
 C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\obj\Release\extension.vsixmanifest
 C:\git\FSharpSilverlightApp\VSIX\FSharpSilverlightApp\bin\Release\FSharpSilverlightApp.png
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSharpSilverlightApp.png
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\ProjectTemplates\Silverlight\FSharpSLApp.zip
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\MicrosoftPublicLicense.txt
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSharpSilverlightApp.vsix
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\extension.vsixmanifest
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\ResolveAssemblyReference.cache
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.dll
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.pdb
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\extension.vsixmanifest
