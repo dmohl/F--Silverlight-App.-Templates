@@ -86,28 +86,23 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll</HintPath>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll</HintPath>
+      <HintPath>$(MSBuildExtensionsPath32)\..\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll</HintPath>
     </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Net" />
     <Reference Include="System.Windows" />
     <Reference Include="System.Windows.Browser" />
     <Reference Include="System.Windows.Controls.Data">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.dll</HintPath>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.dll</HintPath>
+      <HintPath>$(MSBuildExtensionsPath32)\..\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.Windows.Controls.Data.Input">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll</HintPath>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll</HintPath>
+      <HintPath>$(MSBuildExtensionsPath32)\..\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Data.Input.dll</HintPath>
     </Reference>
     <Reference Include="System.Windows.Controls.Input">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Input.dll</HintPath>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Input.dll</HintPath>
+      <HintPath>$(MSBuildExtensionsPath32)\..\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Controls.Input.dll</HintPath>
     </Reference>
     <Reference Include="System.Windows.Data">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll</HintPath>
-      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll</HintPath>
+      <HintPath>$(MSBuildExtensionsPath32)\..\Microsoft SDKs\Silverlight\v4.0\Libraries\Client\System.Windows.Data.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml" />
   </ItemGroup>
