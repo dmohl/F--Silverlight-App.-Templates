@@ -8,9 +8,6 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
-            <ProjectTemplateLink ProjectName="Web">
-                src\Web\MyTemplate.vstemplate
-            </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="App">
                 src\App\MyTemplate.vstemplate
             </ProjectTemplateLink>

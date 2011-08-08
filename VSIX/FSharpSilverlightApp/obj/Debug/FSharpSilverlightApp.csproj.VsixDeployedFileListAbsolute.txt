@@ -1,3 +1,11 @@
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.0\\extension.vsixmanifest
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.0\ProjectTemplates\Silverlight\\FSharpSLApp.zip
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.0\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.2\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.2\\FSharpSilverlightApp.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.2\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.2\ProjectTemplates\Silverlight\\FSharpSLApp.zip
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.3\\extension.vsixmanifest
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.3\\FSharpSilverlightApp.png
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.3\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# Web Application (Silverlight)\1.3\ProjectTemplates\Silverlight\\FSharpSLApp.zip

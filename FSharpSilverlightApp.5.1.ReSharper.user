@@ -1,0 +1,31 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?F--Silverlight-App.-Templates?src?App?App.fsproj" caret="6968" fromTop="0" />
+      <File id="9338C02D-E181-4C70-9E80-22E1DDF4D46C/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?F--Silverlight-App.-Templates?src?App?App.fsproj" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?F--Silverlight-App.-Templates?src?App?App.fsproj" caret="597" fromTop="8" />
+      <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?F--Silverlight-App.-Templates?src?App?App.fsproj" caret="6968" fromTop="0" />
+      <File id="9338C02D-E181-4C70-9E80-22E1DDF4D46C/f:MicrosoftPublicLicense.txt" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
