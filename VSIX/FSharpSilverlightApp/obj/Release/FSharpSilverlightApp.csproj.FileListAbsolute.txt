@@ -16,3 +16,8 @@ C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\Resol
 C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.dll
 C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.pdb
 C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\extension.vsixmanifest
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.dll
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.dll
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.pdb
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.pdb
+C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.xml

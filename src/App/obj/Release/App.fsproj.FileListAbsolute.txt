@@ -1,9 +1,4 @@
 C:\git\F--Silverlight-App.-Templates\src\App\bin\Release\Core.XML
-C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\ResolveAssemblyReference.cache
-C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\App.g.resources
-C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\App.dll
-C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\App.pdb
-C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\XapCacheFile.xml
 C:\git\F--Silverlight-App.-Templates\src\App\bin\App.dll
 C:\git\F--Silverlight-App.-Templates\src\App\bin\App.pdb
 C:\git\F--Silverlight-App.-Templates\src\App\bin\Core.XML
@@ -242,3 +237,8 @@ C:\git\F--Silverlight-App.-Templates\src\App\bin\uk\System.Windows.Controls.reso
 C:\git\F--Silverlight-App.-Templates\src\App\bin\vi\System.Windows.Controls.resources.dll
 C:\git\F--Silverlight-App.-Templates\src\App\bin\zh-Hans\System.Windows.Controls.resources.dll
 C:\git\F--Silverlight-App.-Templates\src\App\bin\zh-Hant\System.Windows.Controls.resources.dll
+C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\ResolveAssemblyReference.cache
+C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\App.g.resources
+C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\App.dll
+C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\App.pdb
+C:\git\F--Silverlight-App.-Templates\src\App\obj\Release\XapCacheFile.xml
