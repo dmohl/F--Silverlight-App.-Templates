@@ -26,7 +26,7 @@
   </Identifier>
   <References />
   <Content>
-    <Assembly AssemblyName="FSSLOnlyTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSSLOnlyTemplateWizard.dll</Assembly>
+    <Assembly AssemblyName="FSSLOnlyTemplateWizard, Version=1.1.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735">FSSLOnlyTemplateWizard.dll</Assembly>
     <Assembly AssemblyName="FSSLOnlyDialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6db65b46e659a2ac">FSSLOnlyDialog.dll</Assembly>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
   </Content>
