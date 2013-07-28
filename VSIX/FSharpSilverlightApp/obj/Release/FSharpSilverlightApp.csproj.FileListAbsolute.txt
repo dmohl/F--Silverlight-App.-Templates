@@ -21,3 +21,17 @@ C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLO
 C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.pdb
 C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.pdb
 C:\git\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.xml
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSharpSilverlightApp.png
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\ProjectTemplates\Silverlight\FSharpSLApp.zip
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSharpSilverlightApp.vsix
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\extension.vsixmanifest
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.dll
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyDialog.pdb
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\bin\Release\FSSLOnlyTemplateWizard.xml
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.csprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.dll
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\FSharpSilverlightApp.pdb
+C:\Users\dmohl\Documents\GitHub\F--Silverlight-App.-Templates\VSIX\FSharpSilverlightApp\obj\Release\extension.vsixmanifest

@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VSIX", "VSIX", "{87D5B663-EDF0-44EB-9E7E-6F2F5C682A9D}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "src\App\App.fsproj", "{9F5B63B5-B707-457E-8E37-66BCB9A1B7EF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSharpSilverlightApp", "VSIX\FSharpSilverlightApp\FSharpSilverlightApp.csproj", "{9338C02D-E181-4C70-9E80-22E1DDF4D46C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VSIX", "VSIX", "{87D5B663-EDF0-44EB-9E7E-6F2F5C682A9D}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSSLOnlyTemplateWizard", "TemplateWizard\FSSLOnlyTemplateWizard.fsproj", "{BD7AF5DA-25B8-41FA-A0E8-7A277BD65673}"
 EndProject

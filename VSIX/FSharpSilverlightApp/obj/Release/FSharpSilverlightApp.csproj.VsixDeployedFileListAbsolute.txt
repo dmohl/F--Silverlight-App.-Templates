@@ -50,3 +50,11 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.5\ProjectTemplates\Silverlight\\FSharpSLApp.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.5\\FSSLOnlyDialog.pdb
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.5\\FSSLOnlyTemplateWizard.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\FSSLOnlyDialog.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\FSSLOnlyTemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\FSharpSilverlightApp.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\ProjectTemplates\Silverlight\\FSharpSLApp.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\FSSLOnlyDialog.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\DM\F# Web Application (Silverlight)\1.6\\FSSLOnlyTemplateWizard.pdb
